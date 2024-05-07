@@ -13,7 +13,14 @@ public class Temp1 extends App1{
     
     public static void main() throws IOException, InterruptedException {
     
-    	app.main12();
+    	System.out.println("change1");
+    	System.out.println("change2");
+    	System.out.println("change3");
     
+    	//by x
+
+    	System.out.println("change4");
+    	System.out.println("change5");
+    	System.out.println("change6");
     }     
 }
